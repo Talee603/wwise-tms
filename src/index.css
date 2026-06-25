@@ -3,24 +3,24 @@
 
 :root {
   /* blue primary */
-  --primary: #2f32f3;
-  --primary-dark: #5727db;
+  --primary: #4b4ef1;
+  --primary-dark: #7649f1;
   --primary-light: rgba(53, 14, 226, 0.1);
-  --accent: #2811f0;
-  --accent-dark: #2e13c4;
+  --accent: #6e5ff7;
+  --accent-dark: #7059f3;
 
   /* Surfaces */
-  --bg: #694ceb;
-  --surface: #0b0ff8;
+  --bg: hsl(249, 29%, 91%);
+  --surface: hsl(236, 32%, 91%);
   --surface-hover: #5148a5;
   --sidebar-bg: #12101a;
-  --sidebar-border: rgba(22, 9, 212, 0.863);
+  --sidebar-border: rgba(97, 86, 250, 0.863);
 
   /* Text */
-  --text-primary: #1a0a14;
+  --text-primary: #080708;
   --text-muted: #0c081aec;
-  --text-on-dark: rgba(17, 2, 2, 0.85);
-  --text-on-dark-muted: rgba(17, 8, 8, 0.45);
+  --text-on-dark: rgba(19, 17, 17, 0.85);
+  --text-on-dark-muted: rgba(19, 18, 18, 0.45);
 
   /* Borders & effects */
   --border: #230deb;
